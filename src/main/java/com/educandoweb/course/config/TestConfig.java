@@ -21,7 +21,6 @@ import com.educandoweb.course.repositories.OrderRepository;
 import com.educandoweb.course.repositories.ProductRepository;
 import com.educandoweb.course.repositories.UserRepository;
 
-import jdk.vm.ci.hotspot.EventProvider.InstantEvent;
 
 @Configuration
 @Profile("test")
